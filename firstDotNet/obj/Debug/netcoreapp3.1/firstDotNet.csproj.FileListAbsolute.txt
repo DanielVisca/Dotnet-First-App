@@ -1,0 +1,12 @@
+/Users/danielvisca/Programming/side-projects/firstDotNet/bin/Debug/netcoreapp3.1/firstDotNet.deps.json
+/Users/danielvisca/Programming/side-projects/firstDotNet/bin/Debug/netcoreapp3.1/firstDotNet.runtimeconfig.json
+/Users/danielvisca/Programming/side-projects/firstDotNet/bin/Debug/netcoreapp3.1/firstDotNet.runtimeconfig.dev.json
+/Users/danielvisca/Programming/side-projects/firstDotNet/bin/Debug/netcoreapp3.1/firstDotNet.dll
+/Users/danielvisca/Programming/side-projects/firstDotNet/bin/Debug/netcoreapp3.1/firstDotNet.pdb
+/Users/danielvisca/Programming/side-projects/firstDotNet/obj/Debug/netcoreapp3.1/firstDotNet.csprojAssemblyReference.cache
+/Users/danielvisca/Programming/side-projects/firstDotNet/obj/Debug/netcoreapp3.1/firstDotNet.csproj.CoreCompileInputs.cache
+/Users/danielvisca/Programming/side-projects/firstDotNet/obj/Debug/netcoreapp3.1/firstDotNet.AssemblyInfoInputs.cache
+/Users/danielvisca/Programming/side-projects/firstDotNet/obj/Debug/netcoreapp3.1/firstDotNet.AssemblyInfo.cs
+/Users/danielvisca/Programming/side-projects/firstDotNet/obj/Debug/netcoreapp3.1/firstDotNet.dll
+/Users/danielvisca/Programming/side-projects/firstDotNet/obj/Debug/netcoreapp3.1/firstDotNet.pdb
+/Users/danielvisca/Programming/side-projects/firstDotNet/obj/Debug/netcoreapp3.1/firstDotNet.genruntimeconfig.cache
