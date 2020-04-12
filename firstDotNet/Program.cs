@@ -13,9 +13,15 @@ namespace firstDotNet
             }
             Console.WriteLine(a);
         }
+
+        static void Test2()
+        {
+            Console.WriteLine("Hello!")
+        }
         static void Main(string[] args)
         {
             Test();
+            Test2();
         }
     }
 }
